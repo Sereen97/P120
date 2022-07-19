@@ -1,0 +1,15 @@
+.heading1
+{
+    color:red ;
+}
+
+span
+{
+    font-size: 25px;
+    font-family: 'Edu VIC WA NT Beginner', cursive;
+}
+li
+{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
